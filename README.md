@@ -1,2 +1,3 @@
 # Hello_World
-first repository
+
+My name is Joe, a business analytics student at the University of Iowa!
